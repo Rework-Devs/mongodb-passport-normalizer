@@ -1,5 +1,5 @@
 {
-    "name": "Rework-Devs/mongodb-passport-normalizar",
+    "name": "rework-devs/mongodb-passport-normalizar",
     "description": "Fixed the All References from Laravel Default Eloquent into jenssegers/laravel-mongodb driver",
     "keywords": [
         "laravel-passport",
